@@ -20,6 +20,7 @@ const userManager = new UserManager;
 //
 //
 //
+//
 
 const Router = require('./application/routers/Router');
 app.use(express.static('public'));
